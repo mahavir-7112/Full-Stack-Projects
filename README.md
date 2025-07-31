@@ -2,4 +2,4 @@
 
 this is my first project
 <br>
-Author :- mahavir g hadiyalllllh
+Author :- mahavir g hadiyal
